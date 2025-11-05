@@ -1,0 +1,8 @@
+- [x] Start the backend server to handle API requests
+- [x] Ensure MongoDB is running for database operations
+- [x] Test the create account functionality after starting services
+- [x] Add console logging to onSubmitHandler for debugging if needed
+- [x] Add console logging to backend register controller for debugging
+- [x] Fix MyAppointments page not showing appointments until booking
+- [x] Add debugging logs to MyAppointments component
+- [x] Check if appointments are being fetched correctly from backend
